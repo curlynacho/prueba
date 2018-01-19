@@ -1,0 +1,89 @@
+html{
+
+}
+.navi{
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 3;
+
+}
+
+.ban{
+    background-color: #E8E8E8;
+    height: 16rem;
+
+  }
+
+
+.bann{
+  height: 90%;
+    width: auto;
+    margin: 0 auto;
+    float:right;
+    padding-top: 2rem;
+    position: absolute;
+    right: 5rem;
+}
+.imtp{
+  max-width: 15%;
+}
+
+.textban{
+  float: left;
+  margin: 0 auto;
+  position: absolute;
+  top: 70em;
+  right: 25rem;
+  left: 5rem;
+  text-align: justify;
+}
+
+.main{
+    background-color: rgba(181, 102, 68, 0.2);
+    height: 15rem;
+    margin-bottom: 8rem;
+}
+
+.maim img{
+  float: left;
+  height: 15rem;
+  width: auto;
+  padding: 1rem;
+}
+
+.sidebar{
+  width: 250px;
+  padding: 3em;
+  background-color: rgba(63, 191, 191, 1);
+  color: white;
+  display: table-cell;
+}
+
+.mani{
+  margin-left: 250px;
+  padding: 2em;
+  display: table-cell;
+  text-align: justify;
+}
+
+
+.tex{
+  padding-top: 3em;
+}
+
+footer{
+  background-color:  #E8E8E8;
+
+}
+
+.princ{
+  padding: 0 5rem;
+  text-align: center;
+
+}
+
+.princ img{
+  height: 20rem;
+  width: auto;
+}
